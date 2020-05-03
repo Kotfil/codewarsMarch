@@ -9,6 +9,12 @@
 //
 // console.log (removeChar);
 
+let str = 'world';
+let strReverse = str.split('').reverse().join('');
+
+console.log(strReverse);
+
+
 // const switchItUp = n =>
 //     [
 //         'Zero',
